@@ -26,3 +26,30 @@ Act 1
 
 Act 2
 - **Quartermaster Talli** in Last Light Inn
+
+Because I'm running short of time, here I have a list of the venders, but I took them straight out of Treasure Table from the dye files
+
+- `TUT_Chest_Potions`
+- `DEN_Volo_Trade`
+- `DEN_Entrance_Trade`
+- `DEN_Weaponsmith_Trade`
+- `GOB_Quartermaster`
+- `UND_SocietyOfBrilliance_Hobgoblin`
+- `UND_KC_Trader_Weapons`
+- `UND_KC_Trader_Utility`
+- `CRE_Expeditioner_Trade`
+- `CRE_GithQuartermistress_Trade`
+- `HAV_HarperQuarterMaster`
+- `HAV_HarperQuarterMaster_Magic_Trade`
+- `MOO_InfernalTrader_Trade`
+- `MOO_BugBearvendor_Trade`
+- `WYR_Danthelon_Trader`
+- `WYR_Ironhand_Merchant`
+- `WYR_SharessCaress_Bartender_Trade`
+- `WYR_Bridge_Trader_Tools`
+- `LOW_MysticCarrion_Trade`
+- `LOW_Figaro_Trade`
+- `LOW_MurderTribunal_Merchant`
+- `LOW_SteepsTrader_Consumables`
+- `TWN_Hospital_CorpseTender`
+- `SHA_MerregonTrader`
