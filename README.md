@@ -54,8 +54,10 @@ Because I'm running short of time, here I have a list of the venders, but I took
 - `TWN_Hospital_CorpseTender`
 - `SHA_MerregonTrader`
 
-### Summon dyes through CT
-`"cdf8e64d-23c5-4f54-bad4-2de0c0d01b36",-- ILD_Dye_JetBlackWhiteSmoke`
+## Summon dyes through CT
+Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996">here.</a>
+
+<br>`"cdf8e64d-23c5-4f54-bad4-2de0c0d01b36",-- ILD_Dye_JetBlackWhiteSmoke`
 <br>`"0fc2c289-c7d0-47ef-8127-67a7f17a0f41",-- ILD_Dye_JetBlackTaupe`
 <br>`"d984f241-9449-4c77-8b8a-cb652bb502a7",-- ILD_Dye_JetBlackRed`
 <br>`"986ca1cd-4033-4ad3-9a08-03ea8bba1e07",-- ILD_Dye_JetBlackRedOrange`
