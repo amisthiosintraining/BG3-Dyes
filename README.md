@@ -1,6 +1,8 @@
 # Baldur's Gate 3 | Dyes
 I did dyes with ilikedetectives to see if we're still smart and not so colour blind. 
 
+<img src="https://imgur.com/AAUAvGm.png" height="300">
+
 ### Please read instructions carefully
 
 ## Requirements
