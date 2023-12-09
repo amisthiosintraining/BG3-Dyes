@@ -82,3 +82,14 @@ Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996
 <br>`"bbef1c48-eb1a-4903-83b8-cc7911a21a77",-- ILD_Dye_DarkMoonstone`
 <br>`"9767421b-e56f-4d2c-9fad-8503018bb79f",-- ILD_Dye_NightOrchid`
 <br>`"478b6d71-c928-454a-bfca-bd619799b3e7",-- ILD_Dye_DarkEmerald`
+
+### Tools used
+- <a href="https://www.nexusmods.com/baldursgate3/mods/3424">Custom Dye Mod Guide</a> by AstralSprout
+- <a href="https://www.nexusmods.com/baldursgate3/mods/1280">P4 Custom Dyes (Includes Sample Template)</a> by Padme
+- <a href="https://www.nexusmods.com/baldursgate3/mods/502">BG3 Mini Tool</a> by Padme
+- <a href="https://github.com/Norbyte/lslib">LsLib﻿</a> by Norbyte
+- <a href="https://github.com/ShinyHobo/BG3-Modders-Multitool">Multitool</a>﻿ by ShinyHobo
+- <a href="https://github.com/LaughingLeader/BG3ModManager/releases">BG3 Mod Manager</a> by LaughingLeader
+
+### My gratitude
+To AstralSprout for writing a clear and concise tutorial on how to make dyes. Padme for providing tutorials and tools for going above and beyond to help new modders and dummies such as myself. Norbyte and ShinyHobo for creating easy to use tools. Last but not least, LaughingLeader for BG3 Mod Manager.
