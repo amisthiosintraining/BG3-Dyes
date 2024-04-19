@@ -57,7 +57,7 @@ Because I'm running short of time, here I have a list of the venders, but I took
 - `TWN_Hospital_CorpseTender`
 - `SHA_MerregonTrader`
 
-## Summon dyes through CT
+## Summon 'Dyes For The Dark and Wary' through CT
 Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996">here.</a>
 
 <br>`"cdf8e64d-23c5-4f54-bad4-2de0c0d01b36",-- ILD_Dye_JetBlackWhiteSmoke`
@@ -92,6 +92,31 @@ v5.2.2.
 <br>`"ddc861ff-9d20-49f1-aad8-778433c416f3",-- ILD_Dye_Gunmetal`
 <br>`"b6eb566e-e11d-46fa-b63c-9558fcb04785",-- ILD_Dye_Charcoal`
 <br>`"bbc7ac15-8c00-4e7e-ac80-baf25df09b7e",-- ILD_Dye_Platinum`
+
+## Summon 'Shadowheart Dyes' through CT
+Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996">here.</a>
+
+<br>`"6b4f4091-b564-4c09-b4e1-1b657a2f51c0",-- SH_Dye_Wolf`
+<br>`"be655283-f34c-4065-b3d4-fe7121a030b0",-- SH_Dye_RunningUpThatHill`
+<br>`"05b6a6b0-fea2-4844-bc3a-9c84c18950c6",-- SH_Dye_TheCurse`
+<br>`"303a81f2-d659-468d-9afd-53286d226ca4",-- SH_Dye_BloodyMotherAsshole`
+<br>`"a430ac62-09b8-4400-95d6-7d4c6df57fa8",-- SH_Dye_FridayImInLove`
+<br>`"caa28cf7-fae0-48b8-b174-8727236f1a8e",-- SH_Dye_VladimirsBlues`
+<br>`"846acbab-ca47-4b73-8ec0-50e587cc53dd",-- SH_Dye_IntoMyArms`
+<br>`"73f6b030-179f-4c38-ba3e-bde9dc094865",-- SH_Dye_Bird`
+<br>`"163dfc06-0675-4e21-ad03-34fc8661639b",-- SH_Dye_HoundsOfLove`
+<br>`"43edf9b1-e7cd-4b6d-a174-4000ec5ae3da",-- SH_Dye_CitizenOfGlass`
+<br>`"81a2156d-15b0-4a0b-b479-63691e1ea892",-- SH_Dye_iloveyou`
+<br>`"3282974e-f64c-4d1e-82e6-c13dfe72ca7e",-- SH_Dye_Tokka`
+<br>`"7af3d69e-7621-402d-bae6-a4434b0b4246",-- SH_Dye_SevenDevils`
+<br>`"95d7f3f5-453a-46d2-81cc-ce0d22df7756",-- SH_Dye_youshouldseemeinacrown`
+<br>`"3974ca30-6e2e-48dd-8f05-86f171831800",-- SH_Dye_TonightTheStreetsAreOurs`
+<br>`"5ed48d1e-4b46-4ef9-8196-c6dd4bfb4525",-- SH_Dye_YouMattertoMe`
+<br>`"798c2ad0-e325-4f04-9d5a-204c4398f232",-- SH_Dye_WakingTheWitch`
+<br>`"0a2cfe85-28c6-49f4-829e-b1febdc1ba08",-- SH_Dye_WHENIWASOLDER`
+<br>`"68d91738-0310-4132-bec1-e99b030ac2e9",-- SH_Dye_RunningWithTheWolves`
+<br>`"35f73f9b-6495-477f-b838-470c3243baf6",-- SH_Dye_EverybodyWantsToRuleTheWorld`
+<br>`"03afada8-8a3f-4424-a882-4283e183cacf",-- SH_Dye_ToBuildaHome`
 
 ### Tools used
 - <a href="https://www.nexusmods.com/baldursgate3/mods/3424">Custom Dye Mod Guide</a> by AstralSprout
