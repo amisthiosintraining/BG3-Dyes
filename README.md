@@ -83,6 +83,16 @@ Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996
 <br>`"9767421b-e56f-4d2c-9fad-8503018bb79f",-- ILD_Dye_NightOrchid`
 <br>`"478b6d71-c928-454a-bfca-bd619799b3e7",-- ILD_Dye_DarkEmerald`
 
+v5.2.2.
+<br>`"776bce05-72f8-42d6-ac56-03cc1ebdc91c",-- ILD_Dye_ColonelSandersWhite`
+<br>`"fa948f21-ae78-419b-bcaf-c9d7d16699d0",-- ILD_Dye_MetallicGold`
+<br>`"b7e93e4c-2309-481b-9a3e-ddb936a077e6",-- ILD_Dye_Silver`
+<br>`"0d22f9df-b7c4-4330-81d8-2e5bb1ceb572",-- ILD_Dye_Bronze`
+<br>`"a2d9f346-1fe2-488b-ae2f-39e704a3564c",-- ILD_Dye_Copper`
+<br>`"ddc861ff-9d20-49f1-aad8-778433c416f3",-- ILD_Dye_Gunmetal`
+<br>`"b6eb566e-e11d-46fa-b63c-9558fcb04785",-- ILD_Dye_Charcoal`
+<br>`"bbc7ac15-8c00-4e7e-ac80-baf25df09b7e",-- ILD_Dye_Platinum`
+
 ### Tools used
 - <a href="https://www.nexusmods.com/baldursgate3/mods/3424">Custom Dye Mod Guide</a> by AstralSprout
 - <a href="https://www.nexusmods.com/baldursgate3/mods/1280">P4 Custom Dyes (Includes Sample Template)</a> by Padme
