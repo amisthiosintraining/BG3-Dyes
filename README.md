@@ -157,6 +157,7 @@ Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996
 - <a href="https://github.com/Norbyte/lslib">LsLib﻿</a> by Norbyte
 - <a href="https://github.com/ShinyHobo/BG3-Modders-Multitool">Multitool</a>﻿ by ShinyHobo
 - <a href="https://github.com/LaughingLeader/BG3ModManager/releases">BG3 Mod Manager</a> by LaughingLeader
+- <a href="https://coolors.co/">Coolors.co</a> by Fabrizio Bianchi
 
 ### My gratitude
 To AstralSprout for writing a clear and concise tutorial on how to make dyes. Padme for providing tutorials and tools for going above and beyond to help new modders and dummies such as myself. Norbyte and ShinyHobo for creating easy to use tools. Last but not least, LaughingLeader for BG3 Mod Manager.
