@@ -96,6 +96,8 @@ v5.2.2.
 ## Summon 'Shadowheart Dyes' through CT
 Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996">here.</a>
 
+<img src="https://imgur.com/vaazQwy.png">
+
 <br>`"6b4f4091-b564-4c09-b4e1-1b657a2f51c0",-- SH_Dye_Wolf`
 <br>`"be655283-f34c-4065-b3d4-fe7121a030b0",-- SH_Dye_RunningUpThatHill`
 <br>`"05b6a6b0-fea2-4844-bc3a-9c84c18950c6",-- SH_Dye_TheCurse`
@@ -117,6 +119,36 @@ Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996
 <br>`"68d91738-0310-4132-bec1-e99b030ac2e9",-- SH_Dye_RunningWithTheWolves`
 <br>`"35f73f9b-6495-477f-b838-470c3243baf6",-- SH_Dye_EverybodyWantsToRuleTheWorld`
 <br>`"03afada8-8a3f-4424-a882-4283e183cacf",-- SH_Dye_ToBuildaHome`
+
+## Summon 'Minthara Dyes' through CT
+Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996">here.</a>
+
+<br>`"2f04fd50-30fc-4218-8cea-0bfae7888ec2",-- MB_Dye_OutsideTheRealm`
+<br>`"5cedabab-ebf6-4203-b5be-e6a929d258df",-- MB_Dye_Maam`
+<br>`"5536dbc9-7099-45bf-86f8-a8b4842c09e2",-- MB_Dye_Crawling`
+<br>`"e9fd8f67-9125-4272-a5b6-175f86557183",-- MB_Dye_KillingInTheName`
+<br>`"52155a88-763d-44fe-b00a-724abb9662eb",-- MB_Dye_NewNoise`
+<br>`"d41855b3-da8b-4f4c-9451-1c3dca4a718e",-- MB_Dye_Firestarter`
+<br>`"da23dd34-70c0-4a74-a38b-b4a5ffc508bd",-- MB_Dye_Frantic`
+<br>`"63d251a8-0370-4820-83c8-93ea7d70b569",-- MB_Dye_TheEvilHasLanded`
+<br>`"43fe1451-8dd8-4990-8611-be427d1a6032",-- MB_Dye_RottenApple`
+<br>`"3461689e-4e78-4cc9-bf55-80924b0d52f8",-- MB_Dye_Angel`
+<br>`"d6b11c10-b00d-40a5-b89b-480144734f7e",-- MB_Dye_Venom`
+<br>`"c18716a2-4b11-4e31-b843-3e09239ecc53",-- MB_Dye_Asteroid`
+<br>`"76ed0650-4991-4fae-b417-5f4af3dd44a2",-- MB_Dye_Massacre`
+<br>`"37b52552-86d4-4860-8a58-100dd75502e4",-- MB_Dye_KilledByDeath`
+<br>`"20a0bb52-96ef-4a8d-8322-31feba7fbe28",-- MB_Dye_HolyCalamity`
+<br>`"dfdc45a8-8108-4775-b444-96290381757d",-- MB_Dye_BlessThose`
+<br>`"732cfe23-74dc-42c3-8c0e-01229f8c4af8",-- MB_Dye_CryLittleSister`
+<br>`"c0afb63e-fbb5-4a36-a563-1ecf7251a4c6",-- MB_Dye_Monster`
+<br>`"7aaf6cf8-4af4-4d9a-b2b4-d179383a0b4b",-- MB_Dye_YouWantItDarker`
+<br>`"1508e901-8ed3-471d-8421-e0c60fa94e18",-- MB_Dye_Hardwired`
+<br>`"78c46c17-6bde-413e-bf2a-59a9faa5ab7d",-- MB_Dye_ForWhomTheBellTolls`
+<br>`"80e4def5-0e95-4275-9e37-7c113f825b27",-- MB_Dye_HolyWars`
+<br>`"d99b12af-8e98-449c-841c-22d3b099dce1",-- MB_Dye_Blind`
+<br>`"f3612742-c270-4e7d-9b87-448f11d31f76",-- MB_Dye_DamagedGoods`
+<br>`"91f8e461-1d24-4007-90a3-bff1dca8e470",-- MB_Dye_DeathDisco`
+<br>`"24fb8ab4-6b7f-42bf-ae2a-e8ee1ef62fe7",-- MB_Dye_Incredible`
 
 ### Tools used
 - <a href="https://www.nexusmods.com/baldursgate3/mods/3424">Custom Dye Mod Guide</a> by AstralSprout
