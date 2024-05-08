@@ -10,12 +10,14 @@ I did dyes with ilikedetectives to see if we're still smart and not so colour bl
 - <a href="https://github.com/Norbyte/bg3se/releases/tag/updater-20231028">Script Extender</a> (if you run into trouble, install this)
 
 ## Installation
-Drag and drop `Dyes_for_the_Dark_and_Wary_501.zip` in BG3 Mod Manager. Make sure it's under active and then click *"export order to game"*
+Drag and drop `[The_Dye_Pack_You_Picked].zip` in BG3 Mod Manager. Make sure it's under active and then click *"export order to game"*
 
 <img src="https://imgur.com/eUbRsS6.png" width="900">
 
 ## Where are my dyes?
-I haven't tested where all the dyes are, but I made sure they're available in as many merchants as possible in act 1, 2 and 3. I'll update the list as I go along.
+Depending what pack you downloaded it will be available in various vendors or in the tutorial chest.
+
+If the pack you downloaded and installed doesn't say **Tutorial Chest Only** then the list below is where the dyes can be found
 
 Act 1
 - **Tutorial Chest** (in the nautiloid)
@@ -60,6 +62,8 @@ Because I'm running short of time, here I have a list of the venders, but I took
 ## Summon 'Dyes For The Dark and Wary' through CT
 Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996">here.</a>
 
+<br>`"7970e758-ad48-442c-bec4-734284a7f26d",-- OBJ_DFTDAW_Pouch` UUID for bundle
+
 <br>`"cdf8e64d-23c5-4f54-bad4-2de0c0d01b36",-- ILD_Dye_JetBlackWhiteSmoke`
 <br>`"0fc2c289-c7d0-47ef-8127-67a7f17a0f41",-- ILD_Dye_JetBlackTaupe`
 <br>`"d984f241-9449-4c77-8b8a-cb652bb502a7",-- ILD_Dye_JetBlackRed`
@@ -98,6 +102,8 @@ Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996
 
 <img src="https://imgur.com/vaazQwy.png">
 
+<br>`"11323e69-d339-4864-ab26-ca6bd418c641",-- OBJ_SH_Pouch` UUID for bundle
+
 <br>`"6b4f4091-b564-4c09-b4e1-1b657a2f51c0",-- SH_Dye_Wolf`
 <br>`"be655283-f34c-4065-b3d4-fe7121a030b0",-- SH_Dye_RunningUpThatHill`
 <br>`"05b6a6b0-fea2-4844-bc3a-9c84c18950c6",-- SH_Dye_TheCurse`
@@ -122,6 +128,8 @@ Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996
 
 ## Summon 'Minthara Dyes' through CT
 Download table <a href="https://fearlessrevolution.com/viewtopic.php?f=4&t=13996">here.</a>
+
+<br>`"98bd4099-8518-430c-bdbe-b2cb38cca966",-- OBJ_MB_GALA_Pouch` UUID for bundle
 
 <br>`"2f04fd50-30fc-4218-8cea-0bfae7888ec2",-- MB_Dye_OutsideTheRealm`
 <br>`"5cedabab-ebf6-4203-b5be-e6a929d258df",-- MB_Dye_Maam`
